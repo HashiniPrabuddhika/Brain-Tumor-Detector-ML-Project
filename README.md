@@ -24,8 +24,20 @@ It leverages **Convolutional Neural Networks (CNNs)** for image classification a
 ---
 
 ## 📂 Project Structure
+
 Brain_Tumor_Detector/
 │── Brain_Tumor_Detector.ipynb # Main notebook
 │── dataset/ # MRI dataset (train/test)
 │── models/ # Saved trained models (if any)
 │── README.md # Project documentation
+
+
+
+---
+
+## ⚡ Setup & Installation
+
+1️⃣ Clone the repository:
+```bash
+git clone https://github.com/<your-username>/Brain_Tumor_Detector.git
+cd Brain_Tumor_Detector
